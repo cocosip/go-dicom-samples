@@ -41,3 +41,7 @@ Thumbs.db
 
 .cache/
 docs/superpowers/
+
+# Sample runtime output (received instances, print jobs)
+DICOM/
+PrintJobs/
